@@ -26,6 +26,7 @@ public enum StateType {
 	Backstage2,
 	Backstage3,
 	Backstage4,
+	NutralEnding4,
 	GoodEnding1,
 	GoodEnding2,
 	GoodEnding3,
