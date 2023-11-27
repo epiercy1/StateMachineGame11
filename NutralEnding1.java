@@ -9,7 +9,7 @@ private Model model;
 		
 	@Override
 	public String getDescription() {
-		String description = "You choose to stay at home. You walk back to your house and go inside. Ending 1 of 9. Would you like to start a new game?";
+		String description = "You choose to stay at home. You walk back to your house and go inside. Ending 1 of 10. Would you like to start a new game?";
 		return description;
 	}
 
