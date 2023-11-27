@@ -9,7 +9,7 @@ private Model model;
 
 	@Override
 	public String getDescription() {
-		String description = "You confess your love to your friend. She pulls you in for a kiss. Congraduations, you won the game! Ending 5 of 9. Would you like to start a new game?";
+		String description = "You confess your love to your friend. She pulls you in for a kiss. Congraduations, you won the game! Ending 5 of 10. Would you like to start a new game?";
 		return description;
 	}
 
