@@ -9,7 +9,7 @@ private Model model;
 
 	@Override
 	public String getDescription() {
-		String description = "You choose to not to go to the club meeting because you are not interested in Musical Theater. Ending 2 of 9. Would you like to start a new game?";
+		String description = "You choose to not to go to the club meeting because you are not interested in Musical Theater. Ending 2 of 10. Would you like to start a new game?";
 		return description;
 	}
 
