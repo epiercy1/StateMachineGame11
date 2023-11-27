@@ -69,6 +69,7 @@ private HashMap<StateType, State> states = new HashMap<StateType, State> ();
 		states.put(StateType.Backstage2, new Backstage2(model));
 		states.put(StateType.Backstage3, new Backstage3(model));
 		states.put(StateType.Backstage4, new Backstage4(model));
+		states.put(StateType.NutralEnding4, new NutralEnding4(model));
 		states.put(StateType.GoodEnding1,new GoodEnding1(model));
 		states.put(StateType.GoodEnding2,new GoodEnding2(model));
 		states.put(StateType.GoodEnding3,new GoodEnding3(model));
